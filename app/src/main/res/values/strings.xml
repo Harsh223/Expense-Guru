@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Expense Guru</string>
+// For Login Form
+    <string name="login_form_title">Login</string>
+    <string name="login_form_username">Username</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_login">LOGIN</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_income">New Income</string>
+    <string name="new_expense">New Expense</string>
+    <string-array name="date_array">
+        <item>All</item>
+        <item>This Week</item>
+        <item>This Month</item>
+        <item>This Year</item>
+    </string-array>
+</resources>
